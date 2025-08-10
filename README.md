@@ -1,6 +1,6 @@
 # WeatherPico2W – Pico W IoT Weather Station
 
-_Want to know the temperature in Sasolburg, or just need an excuse to justify your purchase of yet another Raspberry Pi Pico W? Either way, welcome!_
+_Want to know the temperature, or just need an excuse to justify your purchase of yet another Raspberry Pi Pico W? Either way, welcome!_
 
 WeatherPico2W is a minimalist weather station for your Pi Pico W, using a BME280 sensor, a rain sensor, and a highly developed sense of existential dread every time WiFi drops. Telemetry is beamed to InfluxDB for slick dashboarding and even slicker graphs.
 
